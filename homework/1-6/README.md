@@ -11,6 +11,7 @@
 
 **5조**
 + 구한울
++ 서지훈
 
 ## 방법
 1. 각 조 조장은 napi/java-basic repository 를 fork 딴 후, write 권한을 받아간다.
