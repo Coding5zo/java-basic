@@ -8,12 +8,42 @@
 + Ian
 + Robin
 - - -
+**11조**
++ Junseok Oh
++ 함진규
++ 박주영
++ 최승환
+- - -
+**7조**
++ JungYouKyung
++ KimSuJoung
++ YangDaEun
++ JangMinYoung
+- - -
+**8조**
++ JungYunsu
++ SeokJihun
++ LeeSangHyeon
++ LimDaeYeong
+- - -
 **9조**
 + ParkSunggyu
 + RyuChihyeon
 + KwonOhhyun
 + LeeSangsu
 - - -
+#### 12조
+**조원**
++ 박준형
++ 이연섭
++ 정석현
+- - -
+
+**10조 **
++ 김가연
++ 김현지
++ 김재승
++ 황태욱
 
 ## 방법
 1. 각 조 조장은 napi/java-basic repository 를 fork 딴 후, write 권한을 받아간다.
@@ -29,6 +59,9 @@
 
 
 ## 주의
+1. 만약 merge 하는 과정에서 다른 조의 작업내역을 날려버리는 경우, 해당 조는 최하점을 드립니다. (자신의 git 에서는 무슨짓을 해도 되지만, 잘못 적용된 코드를 remote 저장소에 보내는 것은 매우 위험한 행동 입니다)
+2. commit 메세지는 의미있는 내용이 들어가야 합니다. 참고 : http://chris.beams.io/posts/git-commit/
+=======
 1. <매우중요> 만약 merge 하는 과정에서 다른 조의 작업내역을 날려버리는 경우, 해당 조는 최하점을 드립니다. (자신의 git 에서는 무슨짓을 해도 되지만, 잘못 적용된 코드를 remote 저장소에 보내는 것은 매우 위험한 행동 입니다)
 2. <중요> commit 메세지는 의미있는 내용이 들어가야 합니다. 참고 : http://chris.beams.io/posts/git-commit/
 3. 사정상 homework 에 참여가 힘든 조원이 있으면 5/31 까지 메일로 연락주시면 감안하도록 하겠습니다.
